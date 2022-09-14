@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/linktree?color=04D361&labelColor=000000">
   
-  <a href="https://www.linkedin.com/in/johnggli/">
+  <a href=https://in.linkedin.com/in/avinash-pudale">
     <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=John%20Emerson&color=04D361&labelColor=000000">
   </a>
   
@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img alt="screenshot" src="screenshot.png">
+  <img alt="screenshot" src="s.png">
 </p>
 
 ---
